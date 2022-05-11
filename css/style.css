@@ -1,0 +1,12 @@
+.bg{
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
+
+h1{
+    text-align: center;
+    color: #f00;
+}
+
+h3{
+    text-align: center;
+}
